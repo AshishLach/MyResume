@@ -36,7 +36,7 @@ Security researcher specializing in Web3 smart contract auditing with expertise 
 - Capture The Ether
 - Damn Vulnerable DeFi
 
-### **Courses & Certifications**
+### **Courses Completion**
 
 - **Cyfrin Smart Contract Security & Assembly + Formal Verification**
 - **Omen Thrum’s Advanced Security (Part 1 & 2)**
