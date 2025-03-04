@@ -1,10 +1,11 @@
-# MyResume
 
-**Ashish Lachuria**
+## **Contact**
 
-**Web3 Security Researcher**
+**Ashish L** - Web3 Security Researcher | Former Lead Specialist
 
 [GitHub](https://github.com/ashishlach) | [LinkedIn](https://www.linkedin.com/in/ashish-lachuria) | [Sherlock Watson Profile](https://audits.sherlock.xyz/watson/AshishLac) | [Twitter/X](https://x.com/0x_Ashish) | Email: ashish.lachuria2@gmail.com
+
+Ready to join forces and collaborate
 
 ---
 
@@ -41,7 +42,7 @@ Security researcher specializing in Web3 smart contract auditing with expertise 
 - **Omen Thrum’s Advanced Security (Part 1 & 2)**
 - **Secureum Bootcamp & Foundry Advanced Testing**
 - **Solana Developer Bootcamp**
-- **My upcomnig focus:**
+- **My upcoming focus is on:**
     - Cyfrin Courses: Uniswap & Curve protocols in depth
     - MixByte DeFi Articles & Immunefi Bug fix reviews
     - Comprehensive review of Solodit-tagged issues (Total: 221) to enhance pattern recognition in audits.
