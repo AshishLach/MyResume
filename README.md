@@ -24,26 +24,38 @@ Web3 security researcher with expertise in Solidity, DeFi security, and smart co
   - Reentrancy via `cancelOrder()`, deprecated `safeApprove`.
 - **Project (Nov '24, CodeHawks)**  
   - MembershipERC1155 proxy upgrade issue.
+- **Reserve Index DTF Protocol (Jan '25, Cantina)**  
+- **Silo Finance (Jan '25, Cantina)**
+- **QuantAMM -> Integration with Balancer Protocol (Dec '24, CodeHawks)**
+- **Liquid Management -> GMX Perpetuals exchange (Feb '25, CodeHawks)**
 
 ### CTFs & Challenges
 
-- Ethernaut, Capture The Ether, Damn Vulnerable DeFi.
+- Ethernaut, Capture The Ether, Damn Vulnerable DeFi
+- Yul rareskills challenges
 
 ### Courses & Learning Focus
 
 - **Completed:**  
-  - Cyfrin Smart Contract Security, Omen Thrum’s Advanced Security, Secureum Bootcamp, Solana Developer Bootcamp.
-- **Upcoming:**  
-  - Uniswap & Curve deep dives, Immunefi bug fix reviews, Solana Security bootcamp.
+  - Cyfrin Foundry Development & Smart Contract Security, Omen Thrum’s Advanced Security, Secureum Bootcamp, Solana Developer Bootcamp
+  - EVM (Yul, Huff)
+  - Foundry Fuzzing, Echidna & Formal Verification
+  - Uniswap & Curve deep dives
+  - Thorough understanding of 55+ common vulnerabilities
+  - Account Abstraction & Multi signature Wallets
+     
+- **Yet to completed:**  
+  - Mixbyte DeFi articles, Immunefi bug fix reviews, 500+ past hack analysis Solana Security bootcamp & Polkadot deep dive
 
 ---
 
 ## Technical Skills
 
 - **Web3 Security:** Smart Contract Auditing, Reentrancy, Flash Loans, Oracle Manipulation, Storage Collision.  
-- **Development:** Solidity, Rust, JavaScript, Python, Knockout.js.  
-- **Security Tools:** Foundry, Hardhat, Slither, Echidna, Certora.  
-- **Databases & Cloud:** SQL, AWS (Lambda, API Gateway).  
+- **Development:** Solidity, Rust, EVM, Openzepplin, Chainlinks, IPFS, Graph QL, Safe Gnosis, JavaScript, Python, Knockout.js.  
+- **Security Tools:** Foundry, Hardhat, Slither, Echidna, Certora, Chimera.
+- **Databases & Cloud:** SQL, AWS (Lambda, API Gateway).
+- **Thorough Understanding:** SQL, AWS (Lambda, API Gateway).
 
 ---
 
