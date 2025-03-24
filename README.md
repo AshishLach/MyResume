@@ -45,7 +45,7 @@ Web3 security researcher with expertise in Solidity, DeFi security, and smart co
   - Account Abstraction & Multi signature Wallets
      
 - **Ongoing:**  
-  - Mixbyte DeFi articles, Immunefi bug fix reviews, 500+ past hack analysis Solana Security bootcamp & Polkadot deep dive
+  - Mixbyte DeFi articles, Immunefi bug fix reviews, Solana Security bootcamp & Polkadot deep dive
 
 ---
 
