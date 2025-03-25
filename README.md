@@ -27,7 +27,8 @@ Web3 security researcher with expertise in Solidity, DeFi security, and smart co
     
 - **Reserve Index DTF Protocol (Jan '25, Cantina)**  
 - **Silo Finance (Jan '25, Cantina)**
-- **Liquid Management 0 GMX Perpetuals exchange (Feb '25, CodeHawks)**
+- **Liquidity Management GMX Perpetuals exchange (Feb '25, CodeHawks)**
+- **Badger ebtc bsm exchange (March '25, Cantina)**
 
 ### CTFs & Challenges
 
