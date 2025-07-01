@@ -9,14 +9,13 @@
 ---
 
 ## SUMMARY
-- 8+ years of professional experience in startup environments, specializing in SaaS product implementations  
+- 8+ years of <a href="https://www.linkedin.com/in/ashish-lachuria" target="_blank">professional experience</a> working in a startup environment, specializing in SaaS product implementations
 - Lead Customer Experience Specialist with expertise in Marketing Automation, Web Development (HTML, jQuery, Knockout.js, Python), and Integrations  
 - Experienced losses in crypto investments; shifted focus to building Web3 skills for better returns  
-- Developed a passion for Web3 technologies; completed Cyfrin Updraft security tutorials and CTF challenges  
-- First audit contest: One World Project (discovered a 1H vulnerability)  
-- Resigned in November 2024 to fully pursue Web3 security  
-- Audit Contest Profile: https://audits.sherlock.xyz/watson/AshishLac  
-- Currently part of ElectiSec Fellowship (Block 7) for hands-on training with real audits and mentorship  
+- Gradually developed a passion for Web3 technologies  
+- Resigned in November 2024 to fully pursue Web3 Security full time
+- Audit Contest Profile <a href="https://audits.sherlock.xyz/watson/AshishLac" target="_blank">https://audits.sherlock.xyz/watson/AshishLac</a>  
+- Currently part of [ElectiSec Fellowship (Block 7)](https://electisec.com/fellowships), selected for hands-on training with real audits and mentorship
 
 ---
 
@@ -45,6 +44,9 @@
 ## WRITINGS
 - [DeFi AMM Math from First Principles — Part 1: Uniswap](https://techfund.jp/en/media/amm-math-first-principles-part1)
 
+### Certifications
+- [Solidity Smart Contract Auditor Certification (SSCAC)](https://certification.hashlock.com/certificate/solidity-smart-contract-developer-certification)  — *Hashlock, June 2025*
+
 ---
 
 ## TRAINING & CTFs
@@ -56,6 +58,7 @@
 - CaptureTheEther & Ethernaut CTFs solved  
 - Damn Vulnerable CTFs solved  
 - Hands-on familiarity with Solana (Anchor), Starknet (Cairo), and Sui (Move)  
+- <a href="https://updraft.cyfrin.io/courses/noir-programming-and-zk-circuits" target="_blank">Noir Programming And ZK Circuits</a>
 
 ---
 
