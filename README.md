@@ -15,7 +15,7 @@
 - Gradually developed a passion for Web3 technologies  
 - Resigned in November 2024 to fully pursue Web3 Security full time
 - Audit Contest Profile <a href="https://audits.sherlock.xyz/watson/AshishLac" target="_blank">https://audits.sherlock.xyz/watson/AshishLac</a>  
-- Currently part of [ElectiSec Fellowship (Block 7)](https://electisec.com/fellowships), selected for hands-on training with real audits and mentorship
+- Finished [ElectiSec Fellowship (Block 7)](https://electisec.com/fellowships), selected for hands-on training with real audits and mentorship
 
 ---
 
@@ -37,12 +37,14 @@
 | Burve AMM                 | Solidity | Apr 2025 | Sherlock  | DeFi – AMM              |
 | Acquaris Soroban          | Rust     | May 2025 | Cantina   | AMM – Crypto & Stable   |
 | Dodo Cross Chain Dex      | Solidity | Jun 2025 | Sherlock  | Cross-Chain Dex         |
-| Centrifuge                | Solidity | Jun 2025 | –         | ERC7540                 |
+| Centrifuge                | Solidity | Jun 2025 | Private contest        | ERC7540                 |
+| Yield Basis               | Vyper | July 2025 | Private contest         | DAO/Guage Voting                 |
 
 ---
 
 ## WRITINGS
 - [DeFi AMM Math from First Principles — Part 1: Uniswap](https://techfund.jp/en/media/amm-math-first-principles-part1)
+- [DeFi AMM Math from First Principles — Part 2: Curve](https://techfund.jp/en/media/amm-math-first-principles-part2-curve-v1)
 
 ### Certifications
 - [Solidity Smart Contract Auditor Certification (SSCAC)](https://certification.hashlock.com/certificate/solidity-smart-contract-developer-certification)  — *Hashlock, June 2025*
@@ -79,8 +81,8 @@ _Web3 Security Research & Audit Competitions_
 - Led Oracle SaaS implementations and backend development  
 - Developed and optimized web solutions using Knockout.js, Require.js  
 - Integrated Eloqua, Brightcove, Docmode for marketing automation  
-- Hired, trained, and mentored teams  
-
+- Hired, trained, and mentored teams
+- 
 ---
 
 ## EDUCATION
