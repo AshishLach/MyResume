@@ -6,7 +6,13 @@
 - **Twitter/X:** https://x.com/0x_Ashish  
 - **Email:** ashish.lachuria2@gmail.com  
 
----
+
+## Languages
+
+- **Confident:** Solidity  
+- **Familiar:** Rust, Move, Vyper
+
+
 
 ## SUMMARY
 - 8+ years of <a href="https://www.linkedin.com/in/ashish-lachuria" target="_blank">professional experience</a> working in a startup environment, specializing in SaaS product implementations
