@@ -74,15 +74,16 @@
 ---
 
 ## WORK EXPERIENCE
+
 **TECHFUND Inc.** (March 2025 – Present)  
-_Web3 Security Research & Audit Competitions_
+- Web3 Security Research & Audit Competitions_
 
 **Innovacx Tech Labs** (2016 – 2025)  
 - Led Oracle SaaS implementations and backend development  
 - Developed and optimized web solutions using Knockout.js, Require.js  
 - Integrated Eloqua, Brightcove, Docmode for marketing automation  
 - Hired, trained, and mentored teams
-- 
+
 ---
 
 ## EDUCATION
