@@ -45,6 +45,7 @@
 | Dodo Cross Chain Dex      | Solidity | Jun 2025 | Sherlock  | Cross-Chain Dex         |
 | Centrifuge                | Solidity | Jun 2025 | Private contest        | ERC7540                 |
 | Yield Basis               | Vyper | July 2025 | Private contest         | DAO/Guage Voting                 |
+| Cap                | Solidity | July 2025 | Sherlock         | Stablecoin/Staking                 |
 
 ---
 
