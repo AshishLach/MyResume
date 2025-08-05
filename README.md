@@ -52,6 +52,7 @@
 ## WRITINGS
 - [DeFi AMM Math from First Principles — Part 1: Uniswap](https://techfund.jp/en/media/amm-math-first-principles-part1)
 - [DeFi AMM Math from First Principles — Part 2: Curve](https://techfund.jp/en/media/amm-math-first-principles-part2-curve-v1)
+- [Tornado Cash Demystified: Why Privacy Matters and How the Protocol Makes It Work](https://techfund.jp/en/media/why-privacy-matters-tornado-cash-demystified)
 
 ### Certifications
 - [Solidity Smart Contract Auditor Certification (SSCAC)](https://certification.hashlock.com/certificate/solidity-smart-contract-developer-certification)  — *Hashlock, June 2025*
